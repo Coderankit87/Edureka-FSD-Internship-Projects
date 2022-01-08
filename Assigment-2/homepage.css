@@ -1,0 +1,72 @@
+body {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+header {
+  display: flex;
+  background-color: #241646f3;
+  padding: 15px 101px 13px 102px;
+}
+
+.Logo {
+  width: 52px;
+  height: 52px;
+  background-color: #fff;
+  border-radius: 26px;
+}
+
+.Logo span {
+  padding: 10px;
+  font-family: Poppins;
+  font-size: 33px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.52;
+  letter-spacing: normal;
+  text-align: center;
+  color: #241646f3;
+}
+
+nav {
+  display: flex;
+  position: absolute;
+  right: 50px;
+
+}
+.Login {
+  width: 43px;
+  height: 23px;
+  margin: 12px 26px 11px 0;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.Rectangle-17 {
+  margin: 0 0 0 26px;
+  padding: 12px 14px 11px 15px;
+  border-radius: 3px;
+  border: solid 1px #fff;
+}
+
+.Create-an-account {
+  width: 152px;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
